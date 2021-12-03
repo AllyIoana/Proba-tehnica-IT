@@ -3,11 +3,13 @@ HTML, CSS, Bootstrap & Flex folosite pentru realizarea probei tehnice de Fronten
 
 -> Frontend
 
--> Aplicatie
-  -> Pagina principala este main page.html.
+-> Aplicatie:
+  -> Pagina principala este "main page.html".
   -> Pentru functionare sunt necesare pozele din mock-up-ul dat (mai exact cele atasate) si fisierele CSS.
 
 -> Implementare:
+  -> Mai intai am creat pagina principala, conform mock-up-ului oferit si apoi alte pagini adiacente.
+  -> Am realizat scheletul proiectului cu HTML, pe care le-am detaliat cu CSS. Am folosit si elemente din Bootstrap si Flex.
   -> In loc de pop-urile pentru Register si Login am creat doua fisiere HTML separate.
   
 -> Challenge-uri:
