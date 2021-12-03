@@ -8,6 +8,7 @@ HTML, CSS, Bootstrap & Flex folosite pentru realizarea probei tehnice de Fronten
   -> Pentru functionare sunt necesare pozele din mock-up-ul dat (mai exact cele atasate) si fisierele CSS.
 
 -> Implementare:
+  -> In loc de pop-urile pentru Register si Login am creat doua fisiere HTML separate.
   
 -> Challenge-uri:
   -> Intreaga proba a fost un challenge pentru mine, de la plasarea unor imagini, pana la realizarea unui form, carousel...
