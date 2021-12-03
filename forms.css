@@ -1,0 +1,23 @@
+.white_box{
+    background-color:  #DBDBDB ;
+}
+.text_form{
+    font-family: Droid Sans !important;
+    font-style: normal !important;
+    font-weight: normal;
+    color:#FFFFFF;
+}
+
+.bubble{
+    border-radius: 7vw !important;
+}
+
+.form_bubble{
+    border-radius: 3vw;
+}
+
+.gradient_back{
+    background: linear-gradient(180deg, #AFD0FF 0%, #B2EEFF 99.99%, rgba(175, 209, 255, 0) 100%) !important;
+    color:black !important;
+    text-align: center;
+}
