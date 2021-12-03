@@ -1,0 +1,85 @@
+.navbar{
+      padding-top: 0 !important;
+     
+  }
+.background_form{
+    background: url("Frame.png");
+    background-repeat: no-repeat;
+    background-size: 100% auto;
+}
+.bubble a{
+    float: left;
+    color: #FFFFFF !important;
+    text-align: center;
+    padding: 1.0638vw 1.5957vw !important;
+    text-decoration: none;
+    font-family: Droid Sans !important;
+    font-style: normal;
+    font-weight: normal;
+    /* font-size: relative-size ; */
+    background-color: #272A45 !important;
+    border-radius: 3vw;
+    margin-left: 1em;
+    margin-right: 1em;
+}
+.bubble a:hover {
+    color:  #FFFFFF !important;
+  }
+.dreapta{
+    float: right !important;
+    top:0;
+    margin-right: 5%;
+}
+.text_option{
+    font-family: Droid Sans !important;
+    font-style: normal !important;
+    font-weight: normal;
+    color:black;
+}
+
+.white_text{
+    color: #FFFFFF !important;
+}
+
+.black_text{
+    color:black;
+}
+.d-flex{
+    display: table-cell!important;
+    padding-right: 0 !important;
+}    
+
+.darkback{
+    background-color: #272A45 ;
+    color: #FFFFFF !important;
+    padding-top: inherit;
+    text-align: center;
+    border-radius: 7vw;
+}
+
+.blueback{
+    background: linear-gradient(180deg, #AFD0FF 0%, #B2EEFF 99.99%, rgba(175, 209, 255, 0) 100%) !important;
+    color: #000000 !important;
+    text-align:center;
+    border-radius: 7vw;
+}
+
+.row>*{
+    padding-right: 0 !important;
+    padding-left: 0 !important ;
+}
+
+.btn-primary {
+    color: #FFFFFF;
+    background-color: #272A45;
+    border-radius: 2;
+  }
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+  }
+
