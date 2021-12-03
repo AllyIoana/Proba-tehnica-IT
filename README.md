@@ -4,7 +4,7 @@ HTML, CSS, Bootstrap &amp; Flex folosite pentru realizarea probei tehnice de Fro
 -> Frontend
 
 -> Aplicatie
-  -> Pagina principala este <main page.html>.
+  -> Pagina principala este main page.html.
   -> Pentru functionare sunt necesare pozele din mock-up-ul dat (mai exact cele atasate) si fisierele CSS.
 
 -> Implementare:
