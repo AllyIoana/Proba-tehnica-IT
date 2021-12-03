@@ -10,7 +10,7 @@ HTML, CSS, Bootstrap &amp; Flex folosite pentru realizarea probei tehnice de Fro
 -> Implementare:
   
 -> Challenge-uri:
-  -> Intreaga proba a fot un challenge pentru mine, de la scrierea unor simple cuvinte, la realizarea unui form, carousel sau plasarea unor imagini.
+  -> Intreaga proba a fost un challenge pentru mine, de la realizarea unui form, carousel sau plasarea unor imagini.
   -> Cel mai problematic a fost navbar-ul initial, care se afla, de fapt, pe fiecare pagina in parte.
   -> Cel mai mult m-au ajutat mentorii si colegii de grupa (inclusiv prin recomandarea unor surse de documentatie).
 
